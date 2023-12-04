@@ -16,13 +16,13 @@ Asegúrate de tener instaladas las siguientes dependencias antes de ejecutar el 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/javier-hackaboss/RRHH.git
    ```
 
 2. Accede al directorio del proyecto:
 
    ```bash
-   cd tu_proyecto
+   cd RRHH
    ```
 
 3. Instala las dependencias del servidor y del cliente:
@@ -41,6 +41,8 @@ Asegúrate de tener instaladas las siguientes dependencias antes de ejecutar el 
    ```
 
 2. Abre el archivo `.env` en tu editor de texto y configura la conexión a la base de datos:
+
+   Ejemplo de configuración para env:
 
    ```env
    DB_CONNECTION=mysql
